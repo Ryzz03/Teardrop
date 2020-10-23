@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet SYN Flooding Attack")
 print
 print "Author   : Mr-D1P5EY"
 print "WhastApp : +6282192959xxx"
